@@ -32,7 +32,7 @@ From leading development projects at ZeroW Health & Leisure to enhancing data an
 ## 📫 Get In Touch
 Interested in collaborating on projects that challenge and excite. Let's connect and explore how we can make a difference together!
 - **Email**: michael.kenneth.kingston@gmail.com
-- **LinkedIn**: [Michael Kingston]()
+- **LinkedIn**: [Michael Kingston](https://www.linkedin.com/in/michael-kenneth-kingston/)
 - **Kaggle Profile**: View my Kaggle achievements and contributions [here](https://www.kaggle.com/michaelkingston)
 
 Let's innovate and push the boundaries of what's possible!
